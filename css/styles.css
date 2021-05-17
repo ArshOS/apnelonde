@@ -27,13 +27,24 @@ body {
   text-decoration: underline;
 }
 
+.pro:hover {
+  color: red;
+}
+
 .big-heading {
   font-size: 5.5rem;
 }
 
+.big-heading:hover {
+  color: #fff;
+}
+
 .building-img {
   margin: 100px auto 50px auto;
-  height: 300px;
+}
+
+.building-img:hover {
+  color: #fff;
 }
 
 .top-section {
